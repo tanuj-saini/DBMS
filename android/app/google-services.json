@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545360843045",
+    "project_id": "health-cf14e",
+    "storage_bucket": "health-cf14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545360843045:android:1b43a2b2b21c9cde2e4acc",
+        "android_client_info": {
+          "package_name": "com.example.amazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3kFAacZKAMztT8ZDohy9eXw81lvEbQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545360843045:android:b11b5e72063e59c52e4acc",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_complete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3kFAacZKAMztT8ZDohy9eXw81lvEbQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
